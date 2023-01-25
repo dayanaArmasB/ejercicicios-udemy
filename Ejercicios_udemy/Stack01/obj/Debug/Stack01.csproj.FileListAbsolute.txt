@@ -1,0 +1,8 @@
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Stack01\bin\Debug\Stack01.exe.config
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Stack01\bin\Debug\Stack01.exe
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Stack01\bin\Debug\Stack01.pdb
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Stack01\obj\Debug\Stack01.csproj.AssemblyReference.cache
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Stack01\obj\Debug\Stack01.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Stack01\obj\Debug\Stack01.csproj.CoreCompileInputs.cache
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Stack01\obj\Debug\Stack01.exe
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Stack01\obj\Debug\Stack01.pdb

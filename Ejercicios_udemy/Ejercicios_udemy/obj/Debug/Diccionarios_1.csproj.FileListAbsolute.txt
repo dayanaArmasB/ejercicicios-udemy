@@ -1,0 +1,8 @@
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Ejercicios_udemy\bin\Debug\Ejercicios_udemy.exe.config
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Ejercicios_udemy\bin\Debug\Ejercicios_udemy.exe
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Ejercicios_udemy\bin\Debug\Ejercicios_udemy.pdb
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Ejercicios_udemy\obj\Debug\Diccionarios_1.csproj.AssemblyReference.cache
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Ejercicios_udemy\obj\Debug\Diccionarios_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Ejercicios_udemy\obj\Debug\Diccionarios_1.csproj.CoreCompileInputs.cache
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Ejercicios_udemy\obj\Debug\Ejercicios_udemy.exe
+C:\Users\dyarm\Desktop\Ejercicios_udemy\Ejercicios_udemy\obj\Debug\Ejercicios_udemy.pdb
